@@ -88,6 +88,7 @@ public class Manual_MantenimientoApp{
         System.out.println(manual1.getMantenimiento()+" tiene mas mantenimientos ");
     }
     else{
+        
             System.out.println(manual2.getMantenimiento()+" tiene mas mantenimientos ");
             }
     }
